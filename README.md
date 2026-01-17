@@ -38,7 +38,7 @@
 <br/>
 
 <div align="center">
-  <h2>🛠️ Tech Stack</h2>
+  <h2>Tech Stack</h2>
 
   <h3>Languages & Technologies</h3>
   <p>
