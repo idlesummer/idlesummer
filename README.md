@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<hr/>
+<br>
 
 <div align="center">
   <h2>A Little Bit About Me</h2>
