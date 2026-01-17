@@ -106,20 +106,7 @@
 <br />
 
 <div align="center">
-  <h2>📊 GitHub Stats</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=idlesummer&show_icons=true&theme=dark&bg_color=0d1117&title_color=AED581&text_color=C5E1A5&icon_color=F75C7E&border_color=C5E1A5" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlesummer&layout=compact&theme=dark&bg_color=0d1117&title_color=AED581&text_color=C5E1A5&border_color=C5E1A5" alt="Top Languages" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=idlesummer&theme=dark&background=0d1117&ring=AED581&fire=F75C7E&currStreakLabel=C5E1A5&border=C5E1A5" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>🐍 Contribution Snake</h3>
+  <h2>🐍 Contribution Activity</h2>
   <img src="https://raw.githubusercontent.com/idlesummer/idlesummer/dff2c79dc18ca86b02ac28efc76e3046ed18eb80/github-snake-dark.svg" alt="snake-gif">
 </div>
 
