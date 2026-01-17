@@ -108,6 +108,7 @@
 
 <div align="center">
   <h2>Projects I'm Working on</h2>
+  <br />
   <a href="https://github.com/idlesummer/pen">
     <img src="https://img.shields.io/badge/pen-File--based_Terminal_Routing-F75C7E?style=for-the-badge&logo=react&logoColor=white" alt="pen"/>
   </a>
@@ -115,6 +116,7 @@
     Currently working on <strong>pen</strong> - a file-based routing framework for React Ink terminal applications inspired by Next.js App Router<br/>
     Powered by React Ink, TypeScript, and Rolldown
   </p>
+  <br />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFF9C4,40:C5E1A5,75:C5E1A5,100:AED581&height=150&section=footer"/>
