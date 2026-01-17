@@ -24,17 +24,18 @@
   </a>
 </div>
 
-<h2>A little bit about me..</h2>
-<p>
-  Computer Science student at De La Salle University Laguna. Passionate about writing clean, elegant code and building applications.
+<div align="center">
+  <h2>A little bit about me..</h2>
+  Passionate about writing clean, elegant code and building applications.
+  Computer Science student at De La Salle University Laguna.
 
   Currently learning TypeScript, React, and exploring developer tooling.
-
-  Always learning and building something new!
-</p>
+  Always learning and building something new :)
+</div>
 
 <div align="center">
-  <h2>Languages & Technologies</h2>
+<h2>Stuff I've Used</h2>
+  <h3>Languages & Technologies</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="html" width="45" height="45" />
@@ -43,10 +44,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="c" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45" />
-</div>
 
-<div align="center">
-  <h2>Frameworks, Libraries & Databases</h2>
+  <h3>Frameworks, Libraries & Databases</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45" />
   <img src="https://raw.githubusercontent.com/vadimdemedes/ink/HEAD/media/logo.png" alt="ink" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next.js" width="45" height="45" />
@@ -61,10 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose" width="45" height="45"/>
-</div>
 
-<div align="center">
-  <h2>Tools & Platforms</h2>
+  <h3>Tools & Platforms</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="github" width="45" height="45"/>
