@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:AED581,40:C5E1A5,75:C5E1A5,100:FFF9C4&height=110"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+idlesummer+👋;Student+•+Aspiring+Developer;Learning+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+idlesummer+👋;Student+•+Aspiring+Web App Dev;Learning+one+line+at+a+time" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -23,20 +23,18 @@
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/>
   </a>
 </div>
-
 <br>
 
 <div align="center">
   <h2>A Little Bit About Me</h2>
   <p>Aspiring web developer, CS student at <strong>De La Salle University Laguna</strong>.</p>
   <p>
-    I like writing clean code and thinking about system architecture—how components<br/>
-    interact, when to decouple things, and using patterns that keep code maintainable.
+    I like building stuff with clean code. Big on thinking about how things connect<br/>
+    and making systems that don't turn into spaghetti code.
   </p>
-  <p>Learning TypeScript and React, always building something new.</p>
+  <p>Learning TypeScript and React, always building something.</p>
   <p><strong>Interested in:</strong> Frontend • Backend • Full-Stack</p>
 </div>
-
 <br/>
 
 <div align="center">
