@@ -111,12 +111,12 @@
 </div>
 
 <div align="center">
-  <h2>🚧 Currently Building</h2>
+  <h2>Projects</h2>
   <a href="https://github.com/idlesummer/pen">
     <img src="https://img.shields.io/badge/pen-File--based_Terminal_Routing-F75C7E?style=for-the-badge&logo=react&logoColor=white" alt="pen"/>
   </a>
   <p>
-    Currently working on <strong>pen</strong> - a file-based routing framework for React Ink terminal applications<br/>
+    Currently working on <strong>pen</strong> - a file-based routing framework for React Ink terminal applications inspired by Next.js App Router<br/>
     Powered by React Ink, TypeScript, and Rolldown
   </p>
 </div>
