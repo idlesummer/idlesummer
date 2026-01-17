@@ -104,5 +104,9 @@
 </div>
 <br/>
 
+![snake gif]()
+
+<img src="https://raw.githubusercontent.com/idlesummer/idlesummer/dff2c79dc18ca86b02ac28efc76e3046ed18eb80/github-snake-dark.svg" alt="snake-gif">
+
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFF9C4,40:C5E1A5,75:C5E1A5,100:AED581&height=150&section=footer"/>
