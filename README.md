@@ -105,7 +105,7 @@
 <br/>
 
 <div align="center">
-  <h2>GitHub Stats</h2>
+  <h2>My GitHub Stats</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=idlesummer&show_icons=true&theme=dark&bg_color=0d1117&title_color=AED581&text_color=C5E1A5&icon_color=F75C7E&border_color=C5E1A5" alt="GitHub Stats" />
   <br/><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=idlesummer&layout=compact&theme=dark&bg_color=0d1117&title_color=AED581&text_color=C5E1A5&border_color=C5E1A5" alt="Top Languages" />
