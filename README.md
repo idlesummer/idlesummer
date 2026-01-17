@@ -40,7 +40,6 @@
     <strong>Interested in:</strong> Frontend Development • Backend Development • Full-Stack Applications
   </p>
 </div>
-
 <br/>
 
 <div align="center">
@@ -102,9 +101,13 @@
     <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="poetry"/>
   </p>
 </div>
+
 <br/>
 
-<img src="https://raw.githubusercontent.com/idlesummer/idlesummer/dff2c79dc18ca86b02ac28efc76e3046ed18eb80/github-snake-dark.svg" alt="snake-gif">
+<div align="center">
+  <h2>Snake Eating my Commit History</h2>
+  <img src="https://raw.githubusercontent.com/idlesummer/idlesummer/dff2c79dc18ca86b02ac28efc76e3046ed18eb80/github-snake-dark.svg" alt="snake-gif">
+</div>
 
 <br/>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:FFF9C4,40:C5E1A5,75:C5E1A5,100:AED581&height=150&section=footer"/>
