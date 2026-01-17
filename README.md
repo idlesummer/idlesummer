@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <h3>Let's Connect!</h3>
+  <h2>Let's Connect!</h2>
   <a href="http://www.linkedin.com/in/nash-luis-maramag">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -24,7 +24,7 @@
   </a>
 </div>
 
-<br/>
+<hr/>
 
 <div align="center">
   <h2>A Little Bit About Me</h2>
