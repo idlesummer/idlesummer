@@ -28,22 +28,21 @@
 
 <div align="center">
   <h2>A Little Bit About Me</h2>
+  <p>Aspiring web developer, CS student at <strong>De La Salle University Laguna</strong>.</p>
   <p>
-    Passionate about writing clean, elegant code and building applications.<br/>
-    Computer Science student at <strong>De La Salle University Laguna</strong>.
+    I like writing clean code and thinking about system architecture—how components<br/>
+    interact, when to decouple things, and using patterns that keep code maintainable.
   </p>
-  <p>
-    Currently learning <strong>TypeScript</strong>, <strong>React</strong>, and exploring developer tooling.<br/>
-    Always learning and building something new :)
-  </p>
-  <p>
-    <strong>Interested in:</strong> Frontend Development • Backend Development • Full-Stack Applications
-  </p>
+  <p>Learning TypeScript and React, always building something new.</p>
+  <p><strong>Interested in:</strong> Frontend • Backend • Full-Stack</p>
 </div>
+
 <br/>
 
 <div align="center">
-  <h2>Languages & Technologies</h2>
+  <h2>🛠️ Tech Stack</h2>
+
+  <h3>Languages & Technologies</h3>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
@@ -54,10 +53,8 @@
     <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="c"/>
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="arduino"/>
   </p>
-</div>
 
-<div align="center">
-  <h2>Frameworks, Libraries & Databases</h2>
+  <h3>Frameworks, Libraries & Databases</h3>
   <p>
     <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discordjs"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="react"/>
@@ -81,10 +78,8 @@
     <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="pytorch"/>
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
   </p>
-</div>
 
-<div align="center">
-  <h2>Tools & Platforms</h2>
+  <h3>Tools & Platforms</h3>
   <p>
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
@@ -111,7 +106,7 @@
 </div>
 
 <div align="center">
-  <h2>Projects</h2>
+  <h2>Projects I'm Working on</h2>
   <a href="https://github.com/idlesummer/pen">
     <img src="https://img.shields.io/badge/pen-File--based_Terminal_Routing-F75C7E?style=for-the-badge&logo=react&logoColor=white" alt="pen"/>
   </a>
