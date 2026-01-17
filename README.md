@@ -5,7 +5,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:AED581,40:C5E1A5,75:C5E1A5,100:FFF9C4&height=110"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hello+World!+I'm+idlesummer+👋;Student+•+Aspiring+Web App Dev;Learning+one+line+at+a+time" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/idlesummer/idlesummer/d8e53cca1ea5f507ae986ab58c734a6b9a11162f/typing.svg" alt="Typing SVG" />
 </div>
 
 <div align="center">
