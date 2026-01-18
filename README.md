@@ -105,7 +105,7 @@
 </div>
 
 <div align="center">
-  <h2> My Featured Projects</h2>
+  <h2>⭐ My Featured Projects</h2>
   <table>
     <tr>
       <td>
