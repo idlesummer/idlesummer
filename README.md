@@ -38,8 +38,7 @@
 <br/>
 
 <div align="center">
-  <h2>Tech Stack</h2>
-
+  <h2>🛠️ Tech Stacks I've Used</h2>
   <h3>Languages & Technologies</h3>
   <p>
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
@@ -83,7 +82,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
     <img src="https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black" alt="esbuild"/>
-    <img src="https://img.shields.io/badge/Rolldown-FF5500?style=for-the-badge&logo=rollupdotjs&logoColor=white" alt="rolldown"/>
+    <img src="https://img.shields.io/badge/Rolldown-FF5500?style=for-the-badge&logo=rolldown&logoColor=white" alt="rolldown"/>
     <img src="https://img.shields.io/badge/Rollup-EC4A3F?style=for-the-badge&logo=rollupdotjs&logoColor=white" alt="rollup"/>
     <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="vitest"/>
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="eslint"/>
@@ -95,45 +94,42 @@
     <img src="https://img.shields.io/badge/Poetry-60A5FA?style=for-the-badge&logo=poetry&logoColor=white" alt="poetry"/>
   </p>
 </div>
-
-<br />
-<hr />
 <br />
 
 <div align="center">
-  <h2>🐍 Contribution Activity</h2>
+  <h2>🐍 My Contribution Activity</h2>
   <img src="https://raw.githubusercontent.com/idlesummer/idlesummer/dff2c79dc18ca86b02ac28efc76e3046ed18eb80/github-snake-dark.svg" alt="snake-gif">
 </div>
+<br>
 
 <div align="center">
   <h2>⭐ My Featured Projects</h2>
   <table>
     <tr>
-      <td>
-        <strong><a href="https://github.com/idlesummer/pen">🖊️ pen</a></strong> · File-based routing for React Ink<br/>
-        <a href="https://npmjs.com/package/@idlesummer/pen">
-          <img src="https://img.shields.io/npm/v/@idlesummer/pen?style=flat-square" alt="npm version"/>
-        </a>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-        <br/><br/>
-        <blockquote>
-          Bring Next.js App Router patterns to your terminal apps. Zero-config file-based routing powered by React Ink.
-        </blockquote>
+      <td width="50%" valign="top">
+        <h3>🖊️ pen</h3>
+        <p><em>File-based routing for React Ink terminal apps</em></p>
+        <p>
+          <a href="https://npmjs.com/package/@idlesummer/pen">
+            <img src="https://img.shields.io/npm/v/@idlesummer/pen?style=flat-square" alt="npm"/>
+          </a>
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+          <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+        </p>
+        <p>Bring Next.js App Router patterns to your terminal apps. Zero-config file-based routing powered by React Ink.</p>
+        <p><a href="https://github.com/idlesummer/pen">→ View Project</a></p>
       </td>
-    </tr>
-    <tr>
-      <td>
-        <strong><a href="https://github.com/idlesummer/tasker">⚡ tasker</a></strong> · Task pipelines with spinners<br/>
-        <a href="https://npmjs.com/package/@idlesummer/tasker">
-          <img src="https://img.shields.io/npm/v/@idlesummer/tasker?style=flat-square" alt="npm version"/>
-        </a>
-        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/-Learning%20Project-FFA500?style=flat-square" alt="Learning Project"/>
-        <br/><br/>
-        <blockquote>
-          Lightweight task runner with type-safe context passing and beautiful CLI spinners. Perfect for build scripts.
-        </blockquote>
+      <td width="50%" valign="top">
+        <h3>⚡ tasker</h3>
+        <p><em>Elegant task pipelines with beautiful spinners</em></p>
+        <p>
+          <a href="https://npmjs.com/package/@idlesummer/tasker">
+            <img src="https://img.shields.io/npm/v/@idlesummer/tasker?style=flat-square" alt="npm"/>
+          </a>
+          <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+        </p>
+        <p>Lightweight task runner with type-safe context passing and beautiful CLI spinners. Perfect for build scripts.</p>
+        <p><a href="https://github.com/idlesummer/tasker">→ View Project</a></p>
       </td>
     </tr>
   </table>
