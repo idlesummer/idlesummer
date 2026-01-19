@@ -133,6 +133,8 @@
   </table>
 </div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0d7377,40:1d3557,75:112240,100:0a192f&height=110&section=footer"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:1a1a1d,40:c3073f,75:e85d04,100:f48c06&height=110"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:f48c06,40:e85d04,75:c3073f,100:1a1a1d&height=110&section=footer"/>
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0d7377,40:1d3557,75:112240,100:0a192f&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0f0e17,40:1f1d36,75:3f3351,100:864879&height=110"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:864879,40:3f3351,75:1f1d36,100:0f0e17&height=110&section=footer"/>
