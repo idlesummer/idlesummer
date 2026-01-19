@@ -2,7 +2,7 @@
 **idlesummer/idlesummer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0a192f,40:112240,75:1d3557,100:0d7377&height=110"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0a192f,40:112240,75:1d3557,100:0d7377&height=110"/> -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/idlesummer/idlesummer/d8e53cca1ea5f507ae986ab58c734a6b9a11162f/typing.svg" alt="Typing SVG" />
