@@ -78,7 +78,7 @@
 
   <h3>Tools & Platforms</h3>
   <p>
-    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="vscode"/>
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTE3LjUgMGwtMTYuOSA5LjUgNC43OTUgMy41MTVMMTcuNSAzLjl2MTYuMkw1LjM5NSAxMC42LjYgMTQuMTIgMTcuNSAyNCAyNCAxOS42NThWNC4zNDJ6Ii8+PC9zdmc+&logoColor=white" alt="vscode"/>
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="github"/>
     <img src="https://img.shields.io/badge/esbuild-FFCF00?style=for-the-badge&logo=esbuild&logoColor=black" alt="esbuild"/>
@@ -115,6 +115,8 @@
           </a>
           <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
           <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+          <img src="https://img.shields.io/badge/-Ink-1a1a1a?style=flat-square&logo=react&logoColor=white" alt="Ink"/>
+          <img src="https://img.shields.io/badge/-Rolldown-FF5500?style=flat-square&logo=rolldown&logoColor=white" alt="Rolldown"/>
         </p>
         <p>Bring Next.js App Router patterns to your terminal apps. Zero-config file-based routing powered by React Ink.</p>
         <p><a href="https://github.com/idlesummer/pen">→ View Project</a></p>
