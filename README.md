@@ -138,3 +138,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:f48c06,40:e85d04,75:c3073f,100:1a1a1d&height=110&section=footer"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0f0e17,40:1f1d36,75:3f3351,100:864879&height=110"/>
 <img src="https://capsule-render.vercel.app/api?type=waving&&color=0:864879,40:3f3351,75:1f1d36,100:0f0e17&height=110&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:0d1117,40:161b22,75:06b6d4,100:22d3ee&height=110"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&&color=0:22d3ee,40:06b6d4,75:161b22,100:0d1117&height=110&section=footer"/>
