@@ -131,12 +131,12 @@
       </td>
       <td width="33%" valign="top">
         <h3><a href="https://github.com/idlesummer/terminal-3d-renderer">🎮 terminal-3d-renderer</a></h3>
-        <p><em>3D graphics renderer from scratch in terminal</em></p>
+        <p><em>Software rasterizer built from first principles</em></p>
         <p>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+          <img src="https://img.shields.io/badge/-Graphics-FF6B6B?style=flat-square" alt="Graphics"/>
         </p>
-        <p>Terminal-based 3D renderer built from scratch. Demonstrates rotation, projection, and rasterization with pure math and native python.</p>
-        <br>
+        <p>3D graphics renderer implementing the complete pipeline from scratch: derived rotation formulas from trigonometric identities, perspective projection using similar triangles, and optimized scanline rasterization maintaining sub-pixel precision.</p>
       </td>
     </tr>
   </table>
