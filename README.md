@@ -135,7 +135,7 @@
         <p>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
         </p>
-        <p>Terminal-based 3D renderer built from scratch. Demonstrates rotation, projection, and rasterization with pure math.</p>
+        <p>Terminal-based 3D renderer built from scratch. Demonstrates rotation, projection, and rasterization with pure math and native python.</p>
         <br>
       </td>
     </tr>
