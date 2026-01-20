@@ -32,7 +32,7 @@
     and making systems that don't turn into spaghetti code.
   </p>
   <p>Learning TypeScript and React, always building something.</p>
-  <p><strong>Interested in:</strong> Frontend • Backend • Full-Stack</p>
+  <p><strong>Interested in:</strong> Terminal Apps • Frontend • Backend</p>
 </div>
 <br/>
 
