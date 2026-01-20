@@ -136,7 +136,7 @@
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/-Graphics-FF6B6B?style=flat-square" alt="Graphics"/>
         </p>
-        <p>3D graphics renderer implementing the complete pipeline from scratch: derived rotation formulas from trigonometric identities, perspective projection using similar triangles, and optimized scanline rasterization maintaining sub-pixel precision.</p>
+        <p>3D graphics renderer implementing the complete pipeline from scratch.</p>
       </td>
     </tr>
   </table>
