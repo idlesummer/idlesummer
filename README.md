@@ -131,7 +131,7 @@
       </td>
       <td width="33%" valign="top">
         <h3><a href="https://github.com/idlesummer/terminal-3d-renderer">🎮 terminal-3d-renderer</a></h3>
-        <p><em>Software rasterizer built from first principles</em></p>
+        <p><em>Software rasterizer built from scratch in native Python</em></p>
         <p>
           <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
           <img src="https://img.shields.io/badge/-Graphics-FF6B6B?style=flat-square" alt="Graphics"/>
